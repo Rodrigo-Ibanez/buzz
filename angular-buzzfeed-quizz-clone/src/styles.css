@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+
+    color: rgb(250, 248, 247);
+}
+
+body {
+    background-color: #381f7b;
+}
